@@ -1,6 +1,6 @@
 # Hi there, my name is Maureen 👋🏽👩🏽‍💻
 
-I'm a student studying computer science at Hartnell College in Salinas, CA. I love what I study and am developing my skills so I can start a career in software development!  
+I'm studying computer science at Hartnell College in Salinas, CA. I love what I study and am developing my skills so I can start a career in software development!  
 
 - 💻 I’m currently working on developing a past hackathon project submission from CruzHacks '22 (Fact or Myth?). 
 - 🤖 In my current classes I am learning Data Structures & Algorithms, Discrete Structures, and how to work with arduinos through solo and group projects.  
