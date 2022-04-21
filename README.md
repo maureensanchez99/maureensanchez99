@@ -2,7 +2,7 @@
 
 I'm studying computer science at Hartnell College in Salinas, CA. I love what I study and am developing my skills so I can start a career in software development!  
 
-- 💻 I’m currently working on developing a past hackathon project submission from CruzHacks '22 (Fact or Myth?). 
+- 💻 I’m currently working on several Arduino projects for a project based class and a microinternship. 
 - 🤖 In my current classes I am learning Data Structures & Algorithms, Discrete Structures, and how to work with arduinos through solo and group projects.  
 - 🌱 I’m looking for help with learning Spanish & Tagolog and developing my front-end language skills (i.e. HTML, CSS, Javascript, and Typescript).
 - 📫 Follow my journey on <a href="https://www.linkedin.com/in/maureen-sanchez/">LinkedIn</a> as I go through my academic career and gain experience for my future career.
