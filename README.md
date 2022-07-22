@@ -1,6 +1,6 @@
 # Hi there, my name is Maureen 👋🏽👩🏽‍💻
 
-I'm studying computer science at Hartnell College in Salinas, CA. I love what I study and am developing my skills so I can start a career in software development!  
+I'm studying computer science at Louisiana State University in Baton Rouge, LA. I love what I study and am developing my skills so I can start a career in software development!  
 
 - 💻 I’m currently working on an Arduino based project for an internship with the California Space Grant Consortium. 
 - 🤖 I am learning how to work with arduinos through an internship and cementing my computer science fundatmentals through LinkedIn Learning courses.  
