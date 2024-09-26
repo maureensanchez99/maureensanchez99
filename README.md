@@ -12,4 +12,6 @@ I'm studying computer science at Louisiana State University in Baton Rouge, LA. 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maureensanchez99&show_icons=true&locale=en&layout=compact" alt="maureensanchez99" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maureensanchez99&show_icons=true&locale=en" alt="maureensanchez99" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maureensanchez99&" alt="maureensanchez99" /></p>
