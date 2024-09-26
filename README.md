@@ -11,3 +11,5 @@ I'm studying computer science at Louisiana State University in Baton Rouge, LA. 
 - 🧵 Fun fact: I love to craft so at times when I'm not glued to my computer I'm making embroidery hoop art, plush dolls, or clothes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maureensanchez99&show_icons=true&locale=en&layout=compact" alt="maureensanchez99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maureensanchez99&" alt="maureensanchez99" /></p>
